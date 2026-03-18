@@ -1,1 +1,1 @@
-这是基于Arduino_nano开发的一款无人机外设控制器，拓展性强，可用电磁铁投掷装置、舵机投掷装置、LED开关电路、相机云台控制
+This is an external controller for drones developed based on Arduino Nano, featuring strong expandability. It can be used for electromagnetic throwing devices, servo throwing devices, LED switch circuits, and camera gimbal control.
